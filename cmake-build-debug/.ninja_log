@@ -1,0 +1,21 @@
+# ninja log v5
+2	1930	7376133035262752	src/CMakeFiles/src.dir/matrix_oop.cpp.obj	af2e33ce929ff771
+1933	2241	7376133038920670	src/libsrc.a	dbeb1d7537450c2c
+26	3507	7376135563742625	test/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	729dcd063e9f3cd9
+15195	18883	7376135717514788	lib/libgtest.a	2b109ce950f3489a
+6	3558	7376136389118454	test/CMakeFiles/Google_Tests_run.dir/unit_test.cpp.obj	1945dce786d9a254
+3558	9634	7376136449693836	test/Google_Tests_run.exe	fca9353902aad4e6
+36	15195	7376135680116149	test/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f195fb7c454a038c
+7	1409	7376135542624693	Matrix_lib/CMakeFiles/src.dir/matrix_oop.cpp.obj	f31e9ac78b508cc
+18883	18986	7376135718554193	lib/libgtest_main.a	554f24493f170788
+5	593	7376134511907429	CMakeFiles/src_run.dir/main.cpp.obj	bdde9ec878dce445
+594	774	7376134513606141	src_run.exe	d56102db258481f0
+1410	2002	7376135546682374	Matrix_lib/libsrc.a	20daba8f688247c
+1	896	7376145327312736	Matrix_lib/CMakeFiles/src.dir/Matrix.cpp.obj	1c5e243a934f5ab0
+897	1031	7376145328661956	Matrix_lib/libsrc.a	a32f2ab9ba814798
+21	2643	7376145344752754	Matrix_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	4a796c0bff8b3603
+8	3628	7376145354557151	Matrix_tests/CMakeFiles/Google_Tests_run.dir/MatrixBaseTest.cpp.obj	42e293760d33af0c
+14	13156	7376145449462937	Matrix_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	2b3c02aee5161b84
+13162	16443	7376145482784161	lib/libgtest.a	150e034402d686b4
+16443	16546	7376145483833569	lib/libgtest_main.a	952212aa4ccb70a0
+16546	22036	7376145538518595	Matrix_tests/Google_Tests_run.exe	62623daa2fe36152

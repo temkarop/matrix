@@ -1,0 +1,2 @@
+D:\QT\Tools\mingw730_64\bin\ar.exe qc libsrc.a CMakeFiles/src.dir/matrix_oop.cpp.obj
+D:\QT\Tools\mingw730_64\bin\ranlib.exe libsrc.a
